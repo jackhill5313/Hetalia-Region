@@ -18,7 +18,7 @@ The script.js file contains all the JavaScript programming of this project.
 <br><br>
 
 ## Credit:
-The website was designed and programmed by Nessie and deployed by joe#7636 using Netlify. <br>The Japanese translations were done by yx.#0001. <br><br>
+The website was designed and programmed by Nessie and deployed by joe#7636 using Netlify.<br>
 
 ## Links: 
 [Our webpage](https://hetalia.net/)<br>
