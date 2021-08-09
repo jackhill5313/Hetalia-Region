@@ -38,12 +38,11 @@ header p{
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-top: 40px;
 }
 
 .info-showcase{
     align-items: center;
-    width: 700px;
+    width: 600px;
     margin-bottom: 40px;
     padding: 30px;
 
@@ -138,6 +137,10 @@ header p{
 
     .info-container ion-icon{
         margin-bottom: 20px;
+    }
+
+    .info-container{
+        margin-top: 40px;
     }
 
     #info{
